@@ -1,7 +1,7 @@
 # test_subtract.py
 
 import unittest
-from subtract import subtract_numbers
+from negative import subtract_numbers
 
 class TestSubtract(unittest.TestCase):
 
