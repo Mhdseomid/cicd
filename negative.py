@@ -1,5 +1,4 @@
-# negative.py
 
-class Negative:
-    def negate(self, num):
-        return -num
+
+def subtract_numbers(a, b):
+    return a - b
